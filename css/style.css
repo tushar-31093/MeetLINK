@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+html,body{ margin: 0; padding: 0; font-family: 'Roboto', sans-serif; background:#f4fbfc}
+body {
+  margin: 0;
+}
+.nav-bg{background: #fff; box-shadow: 1px 0 20px #ddd }
+.table-scroll {height: 400px; overflow-y: auto; 
+}
+
+
+.nav-link { color: #666}
+.active { color: #007bff}
+
+
+.btn.focus, .btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.qty1, .qty1:focus, .qty2, .qty2:focus {
+  border: none;
+  width:50px;
+  background: transparent;
+  outline: none;
+}
+
+
+.table td, .table th { font-size: 14px; width: 25%;}
+
+.like, .dislike { padding: 0}
+.card-title {
+  margin-bottom: .75rem;
+  color: #007bff;
+}
+.list-group {
+  list-style: none; margin: 0 !important;
+}
+.list-group-item { padding: 5px}
+
+.greencolor, .greencolor:hover {color: #5cc03e}
+
+.redcolor,.redcolor:hover {color: #f32652}
+.bg-blue{
+  background:#849aa7;
+}
+.bg-blue h5.card-title{
+ color:#fff;
+}
+.column-headers-background, .row-header-wrapper{ display:none}

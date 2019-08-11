@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Meet link</title>
+</head>
+
+<body>
+  <nav class="pb-2 nav-bg mb-5">
+    <div class="container">
+      <div class="row">
+        <a href="./index.html"><img src="./images/logo.png" class="img-fluid" alt="meet link" /></a>
+        <div class="mr-md-auto"> </div>
+        <ul class="nav justify-content-end mt-3">
+          <li class="nav-item">
+            <a class="nav-link active" href="./index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./page1.html">Evaluation</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" id="result" href="javascript:void(0)"> </a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <img src="./images/profile-pic.png" width="30" class="img-fluid rounded-circle" alt="">
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> <a class="dropdown-item"
+                href="./login.html">Logout</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+
+    </div>
+  </nav>
+  <div class="container">
+    <div class="card-deck">
+      <div class="card">
+        <img src="./images/current-user.jpg" class="card-img-top" alt="current user info">
+        <div class="card-body">
+          <h5 class="card-title">Current User Information</h5>
+           <div class="table-scroll">
+                <div id="currentuser"> </div>
+               </div>
+         </div>
+
+      </div>
+      <div class="card">
+        <img src="./images/pg.jpg" class="card-img-top" alt="Joined Groups">
+        <div class="card-body">
+          <h5 class="card-title">Joined Groups </h5>
+          <div class="table-responsive table-scroll">
+            <table class="table table-bordered" width="100%">
+              <thead class="thead-light">
+                <tr>
+                  <th scope="col">Group ID</th>
+                  <th scope="col">Group Name</th>
+                  <th scope="col">Members</th>
+                  <th scope="col">Decription</th>
+                 
+                </tr>
+              </thead>
+              <tbody id="groupids">
+
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card-deck mt-5 mb-5">
+      <div class="card bg-blue">
+        <img src="./images/gmember.jpg" class="card-img-top" alt="current user info">
+        <div class="card-body">
+            <h5 class="card-title">Members</h5>
+            <div class="table-scroll">
+              <div id="members_json"> </div>
+             </div>
+          </div>
+      
+      </div>
+      <div class="card bg-blue">
+        <img src="./images/group-pic.jpg" class="card-img-top" alt="Joined Groups">
+        <div class="card-body">
+          <h5 class="card-title">Groups</h5>
+          <div class="table-scroll">
+            <div id="other_recommdation"> </div>
+           </div>
+        </div>
+        </div>
+
+
+      <div class="card bg-blue">
+          <img src="./images/user-pic.jpg" class="card-img-top" alt="Joined Groups">
+          <div class="card-body">
+              <h5 class="card-title">Featured Groups</h5>
+            <div class="table-scroll">
+              <div id="featured_groups"> </div>
+             </div>
+          </div>
+  
+  
+          
+        </div>
+
+
+    </div>
+
+  </div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <script src="./js/main.js"></script>
+</body>
+
+</html>

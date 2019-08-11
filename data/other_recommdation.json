@@ -1,0 +1,968 @@
+[
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 107592,
+    "members": 18841,
+    "group_name": "SQL NYC, The NoSQL & NewSQL Database Meetup"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 107592,
+    "members": 18841,
+    "group_name": "SQL NYC, The NoSQL & NewSQL Database Meetup"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1209438,
+    "members": 2667,
+    "group_name": "NYC Volunteer Opportunities and Community Service!"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1228907,
+    "members": 4191,
+    "group_name": "New York Hadoop User group"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1290254,
+    "members": 2701,
+    "group_name": "NY MusicTech Meetup"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1428523,
+    "members": 4016,
+    "group_name": "New York Web Performance Group"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1461951,
+    "members": 2139,
+    "group_name": "New York C++ Developers Group"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1476739,
+    "members": 4747,
+    "group_name": "Be Social Change"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1542972,
+    "members": 4742,
+    "group_name": "NYC Predictive Analytics"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1559235,
+    "members": 409,
+    "group_name": "(Socially) Functional"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1561620,
+    "members": 3091,
+    "group_name": "ARNY - Augmented Reality New York"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1569423,
+    "members": 3087,
+    "group_name": "NoSQL NYC"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1574965,
+    "members": 3207,
+    "group_name": "NYC Tech Talks"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1591779,
+    "members": 1924,
+    "group_name": "Algorithms and Data Structures"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1600809,
+    "members": 2307,
+    "group_name": "StoryCode New York City"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1713622,
+    "members": 1289,
+    "group_name": "Emerging MarTech"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1730008,
+    "members": 17487,
+    "group_name": "Google NYC Tech Talks"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1748515,
+    "members": 1548,
+    "group_name": "LispNYC"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 1794037,
+    "members": 1273,
+    "group_name": "NYC Cassandra User Group"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 2043381,
+    "members": 639,
+    "group_name": "East Village Tech Meetup"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 2659922,
+    "members": 5607,
+    "group_name": "NYLUG - New York Linux Users Group"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 2744292,
+    "members": 5151,
+    "group_name": "NY Enterprise Technology Meetup"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 2829432,
+    "members": 14014,
+    "group_name": "Data Driven NYC (a FirstMark Event)"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 2854922,
+    "members": 10053,
+    "group_name": "Startup Grind NYC"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 3607252,
+    "members": 7971,
+    "group_name": "New York Software Engineers (NYSE)"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 4209152,
+    "members": 1203,
+    "group_name": "Health Devs NYC"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 4370072,
+    "members": 201,
+    "group_name": "Unigroup of New York"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 5087172,
+    "members": 1830,
+    "group_name": "New York Haskell Users Group"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 5314302,
+    "members": 5540,
+    "group_name": "Hacker Hours"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 6737712,
+    "members": 11392,
+    "group_name": "Code Crew - Learn to Code!"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 8417772,
+    "members": 1426,
+    "group_name": "ACM New York City"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 11398322,
+    "members": 2401,
+    "group_name": "Papers We Love"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 14353592,
+    "members": 1088,
+    "group_name": "Apache Mesos NYC Meetup"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 15416432,
+    "members": 681,
+    "group_name": "New York City CoreOS Meetup"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 16203912,
+    "members": 2344,
+    "group_name": "NYC Enterprise Sales Forum"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 18350214,
+    "members": 733,
+    "group_name": "Rust NYC"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 18598034,
+    "members": 1863,
+    "group_name": "Artificial Intelligence Development (a FirstMark Event)"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 18600249,
+    "members": 1293,
+    "group_name": "NYC Sales Development Forum"
+  },
+  {
+    "member_id": 14514615,
+    "member_name": "Abel M",
+    "group_id": 19042464,
+    "members": 302,
+    "group_name": "NGINX + Technology NYC"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 138890,
+    "members": 3782,
+    "group_name": "NYC Screenwriters Collective"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 216933,
+    "members": 3227,
+    "group_name": "Harry Potter NYC - The Group that Shall Not be Named"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 224373,
+    "members": 2464,
+    "group_name": "The NY Musicians Group"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 289623,
+    "members": 1109,
+    "group_name": "The New York Teachers' Group"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 409402,
+    "members": 1668,
+    "group_name": "Cinema Heads Movie Club!"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 535652,
+    "members": 1001,
+    "group_name": "The VOCAL BRILLIANCE Group: Singing, Performing, & Education"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 860035,
+    "members": 6596,
+    "group_name": "Screenwriting Workshop with Award Winning Screenwriter"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1043505,
+    "members": 2181,
+    "group_name": "Pea Madridista NYC (Real Madrid Supporter's Club)"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1175652,
+    "members": 753,
+    "group_name": "The Manhattan Chic Chick Friends (20s-30s)"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1175673,
+    "members": 8399,
+    "group_name": "Shorewalkers"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1192681,
+    "members": 23968,
+    "group_name": "Free NYC! Free Things To Do In NYC + beyond! (or very cheap)"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1192681,
+    "members": 23968,
+    "group_name": "Free NYC! Free Things To Do In NYC + beyond! (or very cheap)"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1253506,
+    "members": 768,
+    "group_name": "BigAppleTalent Film Makers and Entertainers"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1302819,
+    "members": 1100,
+    "group_name": "Artistic Pros Marketing Mix with Technology Club"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1342505,
+    "members": 8930,
+    "group_name": "The Culture & Film Club"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1414748,
+    "members": 13126,
+    "group_name": "Adventure, Activities and Random Events"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1680805,
+    "members": 19732,
+    "group_name": "I wanted to do that...Just not alone!!"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1788311,
+    "members": 657,
+    "group_name": "SILLY DATE! NEW YORK"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 1802703,
+    "members": 3552,
+    "group_name": "The New York Girly Book Club"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 2358071,
+    "members": 4299,
+    "group_name": "20's & 30's NYC Social Group (4,000+ members)"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 3657672,
+    "members": 1013,
+    "group_name": "Carnegie Hall & Lincoln Center Concertgoers"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 3989942,
+    "members": 2085,
+    "group_name": "Disruptive Technologists in NYC"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 4782152,
+    "members": 961,
+    "group_name": "AfterWork Theater"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 7359202,
+    "members": 713,
+    "group_name": "NY I Love To Sing Community Jams, Choir and Gatherings"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 9661622,
+    "members": 859,
+    "group_name": "New friends in New York"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 10578212,
+    "members": 582,
+    "group_name": "Uptown Social"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 14024532,
+    "members": 519,
+    "group_name": "TGFK - Too Good for Karaoke"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 17381002,
+    "members": 2022,
+    "group_name": "New York City Writers Critique Group"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 18179329,
+    "members": 1591,
+    "group_name": "NYC Writers on Writing Book Club"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 18383318,
+    "members": 379,
+    "group_name": "NYC Logic Pro/Garageband DIY Music Production Meetup"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 18383769,
+    "members": 1039,
+    "group_name": "Intro to Voice Training -- NYC"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 18484750,
+    "members": 1147,
+    "group_name": "Young Foodies (20s and 30s)"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 18703347,
+    "members": 837,
+    "group_name": "Artists Meetup"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 19564889,
+    "members": 368,
+    "group_name": "Young Adult Writers Unite!"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 19969167,
+    "members": 1626,
+    "group_name": "NYC Music Producers Club"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 20965785,
+    "members": 6626,
+    "group_name": "Empower Your Creativity"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 21763404,
+    "members": 389,
+    "group_name": "Wine Women and Code"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 21798092,
+    "members": 804,
+    "group_name": "NY Acoustic Song Circle"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 21983056,
+    "members": 1106,
+    "group_name": "Real New York"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 22087901,
+    "members": 220,
+    "group_name": "Gals That Brunch - NYC (20s & 30s)"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 23567920,
+    "members": 3023,
+    "group_name": "Film Club NYC"
+  },
+  {
+    "member_id": 22982331,
+    "member_name": "Laura",
+    "group_id": 23754254,
+    "members": 2179,
+    "group_name": "Cultural Explorations NYC"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 1899751,
+    "members": 1666,
+    "group_name": "Drupal NYC"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 3402322,
+    "members": 2603,
+    "group_name": "ProductTank NYC"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 4013652,
+    "members": 3228,
+    "group_name": "Continuous Delivery : NYC"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 8422992,
+    "members": 5652,
+    "group_name": "Internet of Things (IoT) NY"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 9410592,
+    "members": 1503,
+    "group_name": "Turn To Tech"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 9689772,
+    "members": 3897,
+    "group_name": "Docker New York City"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 11363042,
+    "members": 4689,
+    "group_name": "AWS New York | Official Meetup"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 19544729,
+    "members": 1495,
+    "group_name": "Analytics & Data Science by Dataiku NY"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 19643167,
+    "members": 1134,
+    "group_name": "CSS Layout Club NYC"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 20302705,
+    "members": 897,
+    "group_name": "Uber Engineering Events - New York"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 20365815,
+    "members": 2328,
+    "group_name": "Python + Data Science"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 20621651,
+    "members": 831,
+    "group_name": "Consciousness Club NYC - Machine Consciousness & AI Society"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 22884788,
+    "members": 2696,
+    "group_name": "React NYC"
+  },
+  {
+    "member_id": 182508463,
+    "member_name": "Vikas Minocha",
+    "group_id": 26178231,
+    "members": 142,
+    "group_name": "CodePen NYC"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 405957,
+    "members": 2202,
+    "group_name": "The New York Robotics & Maker-Tech Group"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 443233,
+    "members": 10472,
+    "group_name": "New York City Social - 20's & 30's"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 787565,
+    "members": 1182,
+    "group_name": "A Course in Miracles / A Course of Love classes"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1235637,
+    "members": 23579,
+    "group_name": "Alternative to the Bar Fun Things To Do In NYC!"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1453797,
+    "members": 26341,
+    "group_name": "CoInvent NY (a.k.a NYEBN)"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1477033,
+    "members": 2808,
+    "group_name": "Rainbow Tango. LGBT singles, couples & friends"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1540833,
+    "members": 9632,
+    "group_name": "NYC FASHION SOCIETY"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1544725,
+    "members": 1901,
+    "group_name": "Queer Tech Meetup NYC"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1548636,
+    "members": 767,
+    "group_name": "Invitation To Happiness"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1560588,
+    "members": 2382,
+    "group_name": "In The Company of Men: NYC Gay Men's Life Coaching Group"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1602275,
+    "members": 673,
+    "group_name": "NYC Small Business Start-Out Coaching for Men & Women"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1647884,
+    "members": 6168,
+    "group_name": "Creativity as Spiritual Practice Meetup"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1662259,
+    "members": 2919,
+    "group_name": "Alternative Fun Stuff to do in NYC"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1678122,
+    "members": 4024,
+    "group_name": "Shapeways"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1770593,
+    "members": 5917,
+    "group_name": "Out Professionals"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1772086,
+    "members": 1091,
+    "group_name": "The New York Creative Group"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 1810078,
+    "members": 7671,
+    "group_name": "Dharma Drink: the hangout for Buddhists (& like minded)"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 2033081,
+    "members": 987,
+    "group_name": "New York Positive Attraction Meetup Group"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 2068801,
+    "members": 3061,
+    "group_name": "Buddhist Events New York"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 2682462,
+    "members": 4127,
+    "group_name": "Evolving Lifestyle NYC"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 2691312,
+    "members": 14285,
+    "group_name": "NYC walks: Nature, beauty, & peace"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 3047952,
+    "members": 1558,
+    "group_name": "NYC Creative Freelancers & Entrepreneurs Networking Guild"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 3514092,
+    "members": 2699,
+    "group_name": "ART FOR ART'S SAKE"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 3938842,
+    "members": 655,
+    "group_name": "Art Events for NYC Artists"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 4115152,
+    "members": 1913,
+    "group_name": "Gay Men's  Over 40 Hiking Group"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 5196932,
+    "members": 2525,
+    "group_name": "Gay International Happy Hour"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 6269282,
+    "members": 5710,
+    "group_name": "The Rise: FREE Outdoor Fitness in NYC"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 6591422,
+    "members": 2286,
+    "group_name": "NYC Gay Guys' Book Club"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 10727172,
+    "members": 1017,
+    "group_name": "New York 3D Printing"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 12307772,
+    "members": 3369,
+    "group_name": "Manhattan Fun Things"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 17147902,
+    "members": 2656,
+    "group_name": "Consciousness Hacking NYC"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 18515227,
+    "members": 1977,
+    "group_name": "ARTCONDO:  Building Communities"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 18539314,
+    "members": 931,
+    "group_name": "Non-Scene Gay Dating/LTR (20s-30s)"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 18867769,
+    "members": 2274,
+    "group_name": "New LGBTQ Friends in New York City"
+  },
+  {
+    "member_id": 184733438,
+    "member_name": "Daniel",
+    "group_id": 18997708,
+    "members": 1246,
+    "group_name": "THE OPEN ARTIST STUDIOS"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 495495,
+    "members": 9382,
+    "group_name": "New York Social Network, Events and Adventure Group - NYC"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 1799087,
+    "members": 11688,
+    "group_name": "The New York  - Fashion  Charity Events"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 6485482,
+    "members": 9358,
+    "group_name": "! Singles International NYC !"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 8663942,
+    "members": 9488,
+    "group_name": "*Networking for Actors, Entertainers & Media Professionals*"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 11370822,
+    "members": 1758,
+    "group_name": "The NYC Political Forum"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 17098922,
+    "members": 5715,
+    "group_name": "The Writers and Actors Group"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 18881063,
+    "members": 1916,
+    "group_name": "New to NYC!!"
+  },
+  {
+    "member_id": 232768376,
+    "member_name": "Stephen Lee Bivens",
+    "group_id": 22503770,
+    "members": 957,
+    "group_name": "Love City Arts Collective"
+  }
+]

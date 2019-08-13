@@ -42,7 +42,7 @@ fetch(dataUser)
                     <li class="list-group-item"> <b>Member ID :</b> ${data[i].member_id[j]} </li>
                     <li class="list-group-item"><b>Member Name	 :</b> ${data[i].member_name[j]}</li>
                     <li class="list-group-item"> <b>Bio :</b> ${data[i].bio[j]}</li>
-                    <li class="list-group-item"> <b>Home Town :</b>${data[i].hometown[j]}</li>
+                    <li class="list-group-item"> <b>Home Town : </b>${data[i].hometown[j]}</li>
                     </ul>
                      </div>
                 `

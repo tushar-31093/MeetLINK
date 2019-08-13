@@ -59,6 +59,7 @@
         <img src="./images/pg.jpg" class="card-img-top" alt="Joined Groups">
         <div class="card-body">
           <h5 class="card-title">Joined Groups </h5>
+          <p> The current groups the logged in user is a member of</p>
           <div class="table-responsive table-scroll">
             <table class="table table-bordered" width="100%">
               <thead class="thead-light">
@@ -83,9 +84,12 @@
     <div class="card-deck mt-5 mb-5">
       <div class="card bg-blue">
         <img src="./images/gmember.jpg" class="card-img-top" alt="current user info">
+       
         <div class="card-body">
             <h5 class="card-title">Members</h5>
-            <div class="table-scroll">
+          <p class="text-white sub-text">All the members recommended to the logged-in user based on similar categories.</p>
+          <br>
+               <div class="table-scroll">
               <div id="members_json"> </div>
              </div>
           </div>
@@ -94,8 +98,10 @@
       <div class="card bg-blue">
         <img src="./images/group-pic.jpg" class="card-img-top" alt="Joined Groups">
         <div class="card-body">
-          <h5 class="card-title">Groups</h5>
-          <div class="table-scroll">
+            <h5 class="card-title">Groups</h5>
+            <p class="text-white sub-text"> All the groups recommended to the logged-in user based on all the users who are similar who the logged in user and are a part of the recommended group. The similarity is based on similar categories.</p>
+            <br>
+            <div class="table-scroll">
             <div id="other_recommdation"> </div>
            </div>
         </div>
@@ -103,9 +109,11 @@
 
 
       <div class="card bg-blue">
-          <img src="./images/user-pic.jpg" class="card-img-top" alt="Joined Groups">
-          <div class="card-body">
+          <img src="./images/user-pic.jpg" class="card-img-top">
+           <div class="card-body">
               <h5 class="card-title">Featured Groups</h5>
+              <p class="text-white sub-text">All the groups recommended to the logged-in user based on all the users who are similar who the logged in user and are a part of the recommended group. The similarity is based on group level aggregation using the OWA operator.</p>
+              <br>
             <div class="table-scroll">
               <div id="featured_groups"> </div>
              </div>
